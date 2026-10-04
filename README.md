@@ -17,7 +17,7 @@ Neural Jacobian Fields are state-of-the-art neural representations for deformati
 A fundamental limitation of both the original formulation and follow-up works is that the learned Jacobians are not equivariant to ambient-space rotations of the source mesh. 
 This hinders generalization to shapes that are misaligned or greatly different in shape.
 Moreover, our analysis shows that this rotation dependence stems from the formulation itself and cannot be remedied with rotation-invariant features alone.
-Instead, we propose a rotation-equivariant formulation of Neural Jacobian Fields, \name{}, representing Jacobians in local frames of triangle faces aligned with their normals.
+Instead, we propose a rotation-equivariant formulation of Neural Jacobian Fields, Re-NJF, representing Jacobians in local frames of triangle faces aligned with their normals.
 The frames are learned end-to-end in the gradient space of semantic surface features distilled from 2D image foundation models. 
 Robust to rotations and large geometry changes, these features support learning tangent frames and Jacobians that generalize across transformations in SO(3). 
 Moreover, our localized tangent frame definition also facilitates generalization to non-rigid transformations of the input and substantial shape changes (e.g., dog to human).
