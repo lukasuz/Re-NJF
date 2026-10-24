@@ -1,5 +1,6 @@
 # Rotation-Equivariant Neural Jacobian Fields for Generalizable 3D Mesh Deformations
 
+![Header animation](./img/header.gif)
 
 ### SIGGRAPH Asia 2026
 
