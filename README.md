@@ -4,7 +4,7 @@
 
 ### SIGGRAPH Asia 2026
 
-#### [📝 Preprint](https://lukas.uzolas.com/assets/pdf/Re-NJF_2026_compressed.pdf)
+#### [📝 Paper](https://dl.acm.org/doi/10.1145/3829340.3842184)
 
 **[Lukas Uzolas](https://lukas.uzolas.com/)<sup>1</sup>, 
 [Ruben Wiersma](https://rubenwiersma.nl/)<sup>2,3</sup>,
